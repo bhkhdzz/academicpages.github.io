@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhi-Chao Dong"
-  avatar           : "dongzc.github.io/images/dzc.png"
+  avatar           : "./images/dzc.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
